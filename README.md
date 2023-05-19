@@ -1,4 +1,3 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Ali Afarinifard</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
